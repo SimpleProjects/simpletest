@@ -1,5 +1,4 @@
 local test = {}
-test._COPYRIGHT   = "Copyright (C) 2013-2014 Simple Project"
 test._DESCRIPTION = "Simple Testing Framework"
 test._VERSION = "0.1.0"
 test.run = false
